@@ -1,0 +1,52 @@
+body {
+background: #66ffff;
+}
+
+h1 {
+	 font-size: 45px;
+	 background: #ffccff;
+	 width: 725px;
+	 border-radius:25px; 
+	 padding:35px;
+}
+
+
+h2{
+color: #cc99ff; 
+background: #99ff33;
+ width: 710px;
+ border-radius:10px;
+ padding: 25px;
+}
+
+p {
+	color: #9900cc;
+	background: #ff3399;
+	width: 500px;
+	padding :5px;
+
+}
+
+
+img{
+	width: 520px;
+	height:  auto;
+	display:  block;
+	border-radius: 45px;
+	padding:20px;
+}
+
+
+#blockz{
+
+  background: #b3b3ff; 
+
+  width:550px;
+}
+
+a{
+	display:block;
+}
+
+
+
